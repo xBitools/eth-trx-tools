@@ -3,6 +3,8 @@ Bitools (bitools.pro) 是简化和优化您的加密货币操作的终极工具�
 
 Bitools (bitools.pro) is the ultimate toolbox designed to simplify and optimize your cryptocurrency operations. It offers a range of features including batch generation of USDT wallet addresses, balance inquiries, TRX transfers, consolidation, ETH address authorization, and TRX multi-signature addresses.
 
+![1-1](https://github.com/xBitools/eth-trx-tools/assets/96968142/601f1575-0c90-4ae5-8bd5-dc8b090fc113)
+![1-2](https://github.com/xBitools/eth-trx-tools/assets/96968142/252540b8-0535-4ac3-91f8-8d60b637a08f)
 
 # 批量生成USDT钱包地址
 使用 bitools，你可以在几秒钟内批量生成大量的 USDT 钱包地址。这使得你能够轻松地管理你的加密资产，而无需繁琐的手动步骤。
